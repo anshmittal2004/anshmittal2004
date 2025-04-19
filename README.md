@@ -53,7 +53,9 @@ while(!success) {
 ```
 
 ---
-⭐️ From [anshmittal2004](https://github.com/anshmittal2004)
+<div align="center">
+  <sub>Made with ❤️ by <a href="https://github.com/anshmittal2004">Ansh Mittal</a></sub>
+</div>
 
 <!-- Profile views counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshmittal2004&label=Profile%20views&color=0e75b6&style=flat" alt="anshmittal2004" /> </p>
