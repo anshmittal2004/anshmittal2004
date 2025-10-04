@@ -16,6 +16,12 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
+
+## 🏆 Holopin Badges
+
+[![An image of @anshmittal2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshmittal2004)](https://holopin.io/@anshmittal2004)
+
+
 ## 📊 GitHub Stats
 <a href="https://github.com/anshmittal2004">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshmittal2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
