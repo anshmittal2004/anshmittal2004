@@ -3,7 +3,7 @@
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ## 🚀 About Me
-- 🎓 Computer Science Student
+- 🎓 Software Engineer
 - 💻 Passionate about building impactful software
 - 🌱 Currently learning and growing every day
 - 🔭 Working on various projects to enhance my skills
