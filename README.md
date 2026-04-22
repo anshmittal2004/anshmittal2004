@@ -1,68 +1,218 @@
-# 👋 Hi there, I'm Ansh Mittal
+<div align="center">
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:3a7bd5&height=200&section=header&text=Ansh%20Mittal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" width="100%"/>
 
-## 🚀 About Me
-- 🎓 Software Engineer
-- 💻 Passionate about building impactful software
-- 🌱 Currently learning and growing every day
-- 🔭 Working on various projects to enhance my skills
-
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-
-
-## 🏆 Holopin Badges
-
-[![An image of @anshmittal2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshmittal2004)](https://holopin.io/@anshmittal2004)
-
-
-## 📊 GitHub Stats
-<a href="https://github.com/anshmittal2004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshmittal2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmittal2004&layout=compact&langs_count=7&theme=tokyonight"/>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ansh+%F0%9F%91%8B;Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
+<br/>
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshmittal2004&theme=tokyonight)](https://git.io/streak-stats)
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=anshmittal2004&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d2ff" />
+&nbsp;
+<a href="https://github.com/anshmittal2004?tab=followers">
+  <img src="https://img.shields.io/github/followers/anshmittal2004?label=Followers&style=for-the-badge&color=0d1117&labelColor=00d2ff" />
+</a>
 
-## 📈 Activity Graph
-[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshmittal2004&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
-## 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshmittal2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🧠 About Me
 
-## 📫 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/anshmittal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="60" /></a>
-<a href="https://twitter.com/anshmittal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="60" /></a>
-<a href="https://anshmittal-portfolio-tau.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" alt="portfolio" height="30" width="100" /></a>  
+```yaml
+name: Ansh Mittal
+location: India 🇮🇳
+role: Software Engineer
+currently_working_on: Exciting projects to sharpen my skills
+currently_learning: [System Design, DSA, Cloud Architecture]
+ask_me_about: [Web Dev, APIs, Data Structures, Open Source]
+fun_fact: "I debug code faster with coffee ☕"
+philosophy: "Code is like humor. When you have to explain it, it's bad."
+```
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🔭 Working on **full-stack projects** that solve real problems
+- 🌱 Exploring **Cloud, DevOps, and System Design**
+- 🧩 Love solving **DSA problems** on LeetCode & Codeforces
+- 💬 Ask me about **Python, JavaScript, Java, or C++**
+- 🎯 2025 Goal: **Contribute more to Open Source**
+- ⚡ Fun Fact: **I think in loops and dream in recursion**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## ✨ Daily Coding Motivation
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshmittal2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmittal2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshmittal2004&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshmittal2004&bg_color=0d1117&color=00d2ff&line=3a7bd5&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshmittal2004&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
+
+---
+
+## 🏅 Holopin Badges
+
+<div align="center">
+
+[![An image of @anshmittal2004's Holopin badges](https://holopin.me/anshmittal2004)](https://holopin.io/@anshmittal2004)
+
+</div>
+
+---
+
+## 💡 Dev Philosophy
+
 ```javascript
-// The best code is no code at all.
-// The second best is code that's so clear 
-// it speaks for itself.
-while(!success) {
-  try();
-  if(fail) learn();
+class AnshMittal extends SoftwareEngineer {
+  constructor() {
+    super();
+    this.traits    = ["curious", "persistent", "collaborative"];
+    this.passions  = ["clean code", "system design", "open source"];
+    this.learning  = ["DSA", "cloud architecture", "AI/ML"];
+  }
+
+  dailyRoutine() {
+    while (!this.asleep) {
+      this.drinkCoffee();
+      this.code();
+      this.learnSomethingNew();
+      if (this.hitBug()) {
+        this.debug();
+        this.learn();
+      }
+    }
+  }
+
+  lifePhilosophy() {
+    return "Build. Break. Learn. Repeat. 🚀";
+  }
 }
 ```
 
 ---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+> 💬 Automatically populated via WakaTime integration
+<!--END_SECTION:waka-->
+
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/anshmittal2004">Ansh Mittal</a></sub>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<!-- Profile views counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshmittal2004&label=Profile%20views&color=0e75b6&style=flat" alt="anshmittal2004" /> </p>
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/anshmittal2004" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/anshmittal2004" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://anshmittal-portfolio-tau.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:anshmittal2004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 💼 Open to **internships**, **collaborations**, and **exciting projects!**
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshmittal2004/anshmittal2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshmittal2004/anshmittal2004/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anshmittal2004/anshmittal2004/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,50:00d2ff,100:0d1117&height=120&section=footer)
+
+**Made with ❤️ and ☕ by [Ansh Mittal](https://github.com/anshmittal2004)**
+
+</div>
