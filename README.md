@@ -40,7 +40,7 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 - 🌱 Exploring **Cloud, DevOps, and System Design**
 - 🧩 Love solving **DSA problems** on LeetCode & Codeforces
 - 💬 Ask me about **Python, JavaScript, Java, or C++**
-- 🎯 2025 Goal: **Contribute more to Open Source**
+- 🎯 Goal: **Contribute more to Open Source**
 - ⚡ Fun Fact: **I think in loops and dream in recursion**
 
 <br clear="right"/>
@@ -107,14 +107,6 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshmittal2004&bg_color=0d1117&color=00d2ff&line=3a7bd5&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshmittal2004&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 ---
@@ -202,12 +194,8 @@ class AnshMittal extends SoftwareEngineer {
 
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshmittal2004/anshmittal2004/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshmittal2004/anshmittal2004/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anshmittal2004/anshmittal2004/output/github-snake.svg" />
-</picture>
+<!-- 3D Contribution Calendar -->
+<img src="https://github-profile-3d-contrib.vercel.app/api/gist/anshmittal2004" alt="3D Contributions" width="100%" />
 
 <br/>
 
